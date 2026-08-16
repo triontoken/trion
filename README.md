@@ -17,14 +17,15 @@ This repository is the official public source for TRION documentation, token inf
 | Network | Solana |
 | Token standard | SPL |
 | Official mint | `8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe` |
-| Current supply | 1,000,000,000 TRION |
-| Supply policy | No additional TRION is intended to be minted |
-| Mint authority status | Active — on-chain revocation is required before the supply can be described as permanently fixed |
+| Maximum supply | 1,000,000,000 TRION |
+| Mint authority | Revoked — permanently set to None |
+| Additional minting | Permanently disabled |
 
 Always verify the complete mint address before interacting with the token. TRION representatives will never provide a different mint address through private messages.
 
 - [View on Solscan](https://solscan.io/token/8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe)
 - [View on Solana Explorer](https://explorer.solana.com/address/8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe)
+- [Mint authority revocation transaction](https://solscan.io/tx/5HuRdkwBgnbxWzoLByGxVnYRT6CYnF9t2eoU8ZVNLkQceH2Vzj4nJwSWLWXj5Tkqy7jN5FNrEArD9Zw1mW1mo84h)
 
 ## Vision
 
@@ -50,9 +51,7 @@ Features described as future or intended utility are not claims that those featu
 
 ## Supply and Allocation Approach
 
-The current supply is **1,000,000,000 TRION**. The project policy is that no additional TRION is intended to be minted.
-
-As verified on August 16, 2026, the mint authority remains active on-chain. The supply will be described as permanently fixed only after the mint authority has been revoked through a verifiable Solana transaction.
+The maximum and current supply are permanently fixed at **1,000,000,000 TRION**. On August 16, 2026, the mint authority was revoked and set to None through a finalized Solana transaction. No additional TRION can ever be minted.
 
 TRION does not currently publish an inflexible category allocation as a claim of completed distribution. Treasury management, ecosystem incentives, liquidity, contributors, partnerships, community growth, and market-launch requirements may be structured as the project develops.
 
@@ -63,7 +62,7 @@ Wallets, beneficiaries, vesting terms, locks, cliffs, contracts, and transaction
 ### Phase 1 — Foundation
 
 - Solana token deployment
-- mint authority revocation and fixed-supply verification
+- mint authority revocation and fixed-supply verification — completed
 - official visual identity and website
 - establishment of official X, Telegram, GitHub, and contact channels
 
