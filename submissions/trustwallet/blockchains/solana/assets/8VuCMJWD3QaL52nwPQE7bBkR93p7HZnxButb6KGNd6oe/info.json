@@ -1,0 +1,34 @@
+{
+  "name": "TRION",
+  "type": "SPL",
+  "symbol": "TRION",
+  "decimals": 9,
+  "website": "https://triontoken.com",
+  "description": "TRION is a Solana-based Digital Financial Operating System initiative built around Technology, Trust, and Value. Its supply is permanently fixed at 1,000,000,000 TRION.",
+  "explorer": "https://solscan.io/token/8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe",
+  "status": "active",
+  "id": "8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/triontoken"
+    },
+    {
+      "name": "whitepaper",
+      "url": "https://github.com/triontoken/trion/blob/main/TRION_Whitepaper_v1.0.pdf"
+    },
+    {
+      "name": "x",
+      "url": "https://x.com/triontoken"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/triontoken"
+    },
+    {
+      "name": "docs",
+      "url": "https://github.com/triontoken/trion"
+    }
+  ],
+  "tags": []
+}
