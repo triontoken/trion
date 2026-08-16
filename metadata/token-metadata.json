@@ -1,0 +1,34 @@
+{
+  "name": "TRION",
+  "symbol": "TRION",
+  "description": "TRION is a Digital Financial Operating System initiative on Solana, built around Technology, Trust, and Value. The maximum supply is permanently fixed at 1,000,000,000 TRION and the mint authority has been permanently revoked.",
+  "image": "https://raw.githubusercontent.com/triontoken/trion/main/assets/logo.png",
+  "external_url": "https://triontoken.com",
+  "attributes": [
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Token Standard",
+      "value": "SPL"
+    },
+    {
+      "trait_type": "Maximum Supply",
+      "value": "1,000,000,000 TRION"
+    },
+    {
+      "trait_type": "Mint Authority",
+      "value": "Revoked"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/triontoken/trion/main/assets/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
