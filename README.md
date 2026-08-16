@@ -8,6 +8,12 @@ TRION is a **Digital Financial Operating System** being developed on Solana arou
 
 This repository is the official public source for TRION documentation, token information, project resources, and future technical releases.
 
+## Whitepaper
+
+[Download TRION Whitepaper v1.0 (PDF)](./TRION_Whitepaper_v1.0.pdf)
+
+The document covers the TRION vision, token design, utility framework, supply stewardship, roadmap, transparency standards, and risk disclosure.
+
 ## Official Token Information
 
 | Field | Value |
@@ -18,7 +24,7 @@ This repository is the official public source for TRION documentation, token inf
 | Token standard | SPL |
 | Official mint | `8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe` |
 | Maximum supply | 1,000,000,000 TRION |
-| Mint authority | Revoked — permanently set to None |
+| Mint authority | Revoked - permanently set to None |
 | Additional minting | Permanently disabled |
 
 Always verify the complete mint address before interacting with the token. TRION representatives will never provide a different mint address through private messages.
@@ -33,9 +39,9 @@ TRION is designed as a digital financial operating layer that connects access, p
 
 The project is guided by three principles:
 
-1. **Technology** — fast, accessible, and composable infrastructure.
-2. **Trust** — verifiable information and on-chain transparency.
-3. **Value** — practical utility developed around real ecosystem activity.
+1. **Technology** - fast, accessible, and composable infrastructure.
+2. **Trust** - verifiable information and on-chain transparency.
+3. **Value** - practical utility developed around real ecosystem activity.
 
 ## Intended Utility
 
@@ -59,28 +65,28 @@ Wallets, beneficiaries, vesting terms, locks, cliffs, contracts, and transaction
 
 ## Roadmap
 
-### Phase 1 — Foundation
+### Phase 1 - Foundation
 
 - Solana token deployment
-- mint authority revocation and fixed-supply verification — completed
+- mint authority revocation and fixed-supply verification - completed
 - official visual identity and website
 - establishment of official X, Telegram, GitHub, and contact channels
 
-### Phase 2 — Transparency
+### Phase 2 - Transparency
 
-- public documentation and whitepaper
+- public documentation and Whitepaper v1.0
 - verified token metadata and brand assets
 - publication of relevant on-chain references
 - wallet and tracker indexing preparation
 
-### Phase 3 — Ecosystem
+### Phase 3 - Ecosystem
 
 - initial utility integrations
 - community and partner programs
 - expanded product documentation
 - liquidity and market infrastructure developed responsibly
 
-### Phase 4 — Expansion
+### Phase 4 - Expansion
 
 - broader ecosystem integrations
 - additional financial and digital services
@@ -107,7 +113,7 @@ Security reports may be sent to [contact@triontoken.com](mailto:contact@triontok
 
 ## Documentation Status
 
-This repository and the forthcoming TRION whitepaper are living public documents. Material updates will be versioned and recorded through GitHub.
+This repository and the TRION Whitepaper are living public documents. Material updates will be versioned and recorded through GitHub.
 
 ## Disclaimer
 
