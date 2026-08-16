@@ -17,8 +17,9 @@ This repository is the official public source for TRION documentation, token inf
 | Network | Solana |
 | Token standard | SPL |
 | Official mint | `8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe` |
-| Maximum supply | 1,000,000,000 TRION |
-| Additional minting | Disabled — no additional TRION will be minted |
+| Current supply | 1,000,000,000 TRION |
+| Supply policy | No additional TRION is intended to be minted |
+| Mint authority status | Active — on-chain revocation is required before the supply can be described as permanently fixed |
 
 Always verify the complete mint address before interacting with the token. TRION representatives will never provide a different mint address through private messages.
 
@@ -49,7 +50,9 @@ Features described as future or intended utility are not claims that those featu
 
 ## Supply and Allocation Approach
 
-The maximum supply is fixed at **1,000,000,000 TRION**. No additional TRION will be minted.
+The current supply is **1,000,000,000 TRION**. The project policy is that no additional TRION is intended to be minted.
+
+As verified on August 16, 2026, the mint authority remains active on-chain. The supply will be described as permanently fixed only after the mint authority has been revoked through a verifiable Solana transaction.
 
 TRION does not currently publish an inflexible category allocation as a claim of completed distribution. Treasury management, ecosystem incentives, liquidity, contributors, partnerships, community growth, and market-launch requirements may be structured as the project develops.
 
@@ -60,7 +63,7 @@ Wallets, beneficiaries, vesting terms, locks, cliffs, contracts, and transaction
 ### Phase 1 — Foundation
 
 - Solana token deployment
-- fixed-supply configuration
+- mint authority revocation and fixed-supply verification
 - official visual identity and website
 - establishment of official X, Telegram, GitHub, and contact channels
 
