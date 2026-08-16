@@ -1,0 +1,19 @@
+{
+  "chainId": 101,
+  "address": "8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe",
+  "symbol": "TRION",
+  "name": "TRION",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/triontoken/trion/main/assets/logo.png",
+  "tags": [
+    "utility-token"
+  ],
+  "extensions": {
+    "website": "https://triontoken.com",
+    "twitter": "https://x.com/triontoken",
+    "telegram": "https://t.me/triontoken",
+    "github": "https://github.com/triontoken",
+    "whitepaper": "https://github.com/triontoken/trion/blob/main/TRION_Whitepaper_v1.0.pdf",
+    "solscan": "https://solscan.io/token/8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe"
+  }
+}
