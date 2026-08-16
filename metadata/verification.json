@@ -1,0 +1,14 @@
+{
+  "mint": "8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe",
+  "network": "mainnet-beta",
+  "program": "SPL Token",
+  "decimals": 9,
+  "supply": "1000000000",
+  "mintAuthority": null,
+  "freezeAuthority": null,
+  "mintAuthorityStatus": "permanently-revoked",
+  "revocationDate": "2026-08-16",
+  "revocationTransaction": "5HuRdkwBgnbxWzoLByGxVnYRT6CYnF9t2eoU8ZVNLkQceH2Vzj4nJwSWLWXj5Tkqy7jN5FNrEArD9Zw1mW1mo84h",
+  "revocationProof": "https://solscan.io/tx/5HuRdkwBgnbxWzoLByGxVnYRT6CYnF9t2eoU8ZVNLkQceH2Vzj4nJwSWLWXj5Tkqy7jN5FNrEArD9Zw1mW1mo84h",
+  "tokenExplorer": "https://solscan.io/token/8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe"
+}
