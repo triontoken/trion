@@ -1,0 +1,28 @@
+{
+  "project": "TRION",
+  "tagline": "THE POWER OF THREE",
+  "category": "Digital Financial Operating System",
+  "network": "Solana Mainnet",
+  "tokenStandard": "SPL",
+  "mint": "8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe",
+  "symbol": "TRION",
+  "decimals": 9,
+  "maximumSupply": "1000000000",
+  "currentSupply": "1000000000",
+  "mintAuthority": null,
+  "freezeAuthority": null,
+  "additionalIssuance": false,
+  "authorityRevokedAt": "2026-08-16",
+  "authorityRevocationTransaction": "5HuRdkwBgnbxWzoLByGxVnYRT6CYnF9t2eoU8ZVNLkQceH2Vzj4nJwSWLWXj5Tkqy7jN5FNrEArD9Zw1mW1mo84h",
+  "description": "TRION is a Solana-based digital asset and ecosystem initiative organized around Technology, Trust, and Value.",
+  "website": "https://triontoken.com",
+  "email": "contact@triontoken.com",
+  "links": {
+    "x": "https://x.com/triontoken",
+    "telegram": "https://t.me/triontoken",
+    "github": "https://github.com/triontoken",
+    "whitepaper": "https://github.com/triontoken/trion/blob/main/TRION_Whitepaper_v1.0.pdf",
+    "solscan": "https://solscan.io/token/8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe",
+    "solanaExplorer": "https://explorer.solana.com/address/8VuCMJWD3QaL52nwPQE7bBkR93p7HZnxButb6KGNd6oe"
+  }
+}
